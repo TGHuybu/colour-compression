@@ -6,6 +6,7 @@ clusters, to reduce the number of colours of an input image.
 - `python 3.10`
 - `numpy 1.25`
 - `matplotlib 3.6.0`
+- `pillow 9.2`
 - IDE of your choice!
 
 # How To Use
